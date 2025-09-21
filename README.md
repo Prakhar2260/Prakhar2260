@@ -64,15 +64,15 @@ I’m equally fascinated by **galaxies in the sky** and **graphics in a game eng
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prakhar2260&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prakhar2260&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prakhar2260&theme=tokyonight" alt="GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prakhar2260&theme=tokyonight&cache_seconds=1800" alt="GitHub streak stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar2260&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar2260&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 ---
