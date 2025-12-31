@@ -61,14 +61,30 @@ Getting involved in game dev communities
 💼 LinkedIn: (optional)
 
 📊 PLAYER STATS (NEON HUD)
-🎮 PLAYER STATUS
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Prakhar2260&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=PLAYER%20STATUS" /> </p>
-🔥 COMBO STREAK (FIXED & ACCURATE)
-<p align="center"> <img src="https://streak-stats.demolab.com?user=Prakhar2260&theme=radical&hide_border=true&mode=daily" /> </p>
-🧠 SKILL TREE (LANGUAGES)
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar2260&layout=compact&theme=radical&hide_border=true" /> </p>
-🏆 ACHIEVEMENTS UNLOCKED
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Prakhar2260&theme=darkhub&no-frame=true&row=1" /> </p>
+## 📊 PLAYER STATS (NEON HUD)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prakhar2260&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+</p>
+
+## 🔥 COMBO STREAK
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Prakhar2260&theme=radical&hide_border=true" />
+</p>
+
+## 🧠 SKILL TREE
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar2260&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+## 🏆 ACHIEVEMENTS UNLOCKED
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Prakhar2260&theme=darkhub&no-frame=true&row=1" />
+</p>
+
 🕹️ XP PROGRESSION
 <p align="center"> <img src="https://github.com/Prakhar2260/Prakhar2260/blob/output/github-contribution-grid-snake-dark.svg" /> </p>
 👾 PLAYERS VISITED
