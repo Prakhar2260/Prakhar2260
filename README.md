@@ -51,13 +51,12 @@ I enjoy building systems, solving problems, and turning logic into interactive e
 ## 📡 CONTACT TERMINAL
 - 📧 Email: *add your real email here*  
 - 🔗 GitHub: https://github.com/Prakhar2260  
-- 💼 LinkedIn: *(optional)*  
 
 ---
 
 ## 📊 PLAYER STATS (NEON HUD)
 
-![Player Stats](https://github-readme-stats.vercel.app/api?username=Prakhar2260&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400)
+![Player Stats](https://github-readme-stats.vercel.app/api?username=Prakhar2260&show_icons=true&theme=radical&hide_border=true)
 
 ---
 
@@ -69,13 +68,7 @@ I enjoy building systems, solving problems, and turning logic into interactive e
 
 ## 🧠 SKILL TREE (LANGUAGES)
 
-![Skill Tree](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar2260&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)
-
----
-
-## 🏆 ACHIEVEMENTS UNLOCKED
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Prakhar2260&theme=darkhub&no-frame=true&row=1)
+![Skill Tree](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar2260&layout=compact&theme=radical&hide_border=true)
 
 ---
 
@@ -87,4 +80,3 @@ I enjoy building systems, solving problems, and turning logic into interactive e
 
 ⭐ **Save Point Reached**  
 _Profile auto-updates as XP increases._
-
