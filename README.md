@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Prakhar2260/Prakhar2260/main/banner.png" />
+  <img src="https://raw.githubusercontent.com/Prakhar2260/Prakhar2260/main/banner.png.png" />
 </p>
 
 # 🎮 Prakhar Pandey  
