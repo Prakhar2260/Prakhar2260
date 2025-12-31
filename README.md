@@ -1,80 +1,87 @@
-
-
-<!--
-**Prakhar2260/Prakhar2260** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi there 👋, I'm Prakhar Pandey  
-
-🚀 A passionate **Computer Science Engineering student** aspiring to become a **Game Developer**.  
-I love building cool projects, exploring new technologies, and contributing to communities.  
-
----
-
-## 🔭 I’m currently working on
-- A **web app for generating salary receipts** using Node.js & MySQL  
-- Research on **Carbon Capture & Utilization (CCU)** for reducing emissions from thermal plants  
-- Side quests in **C++** and **Game Development basics**
-
-## 🌱 I’m currently learning
-- **Data Structures & Algorithms (DSA)** in C++  
-- **Web Designing 2** (HTML, CSS, JavaScript, React basics)  
-- **Engineering Mathematics & Vector Calculus** (for academic excellence)  
-- **Game development frameworks** (Unity/Unreal Engine exploration)
-
-## 👯 I’m looking to collaborate on
-- Open-source projects in **Web Development & Game Development**  
-- Research & Innovation projects in **Green Technology** and **Sustainable Computing**
-
-## 🤔 I’m looking for help with
-- Advanced **C++ game engine architecture**  
-- Understanding **clean coding practices** for scalable apps  
-- Breaking into **game dev communities**  
-
-## 💬 Ask me about
-- **Programming in C/C++ & Node.js**  
-- **Web Development projects**  
-- **Green Chemistry & Technology concepts**  
-- **Game Development career path**
-
-## 📫 How to reach me
-- Email: **prakhar2260@example.com** *(replace with your real one if you want)*  
-- LinkedIn: [linkedin.com/in/prakharpandey](#)  
-- GitHub: [github.com/Prakhar2260](https://github.com/Prakhar2260)
-
-## 😄 Pronouns
-He/Him  
-
-## ⚡ Fun fact
-I can switch from **writing code** to **writing patents** 😅.  
-I’m equally fascinated by **galaxies in the sky** and **graphics in a game engine**.  
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prakhar2260&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub stats" />
+  <img src="https://raw.githubusercontent.com/Prakhar2260/Prakhar2260/main/banner.png" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prakhar2260&theme=tokyonight&cache_seconds=1800" alt="GitHub streak stats" />
-</p>
+🎮 Prakhar Pandey
+![XP](https://img.shields.io/badge/XP-GAINING%20DAILY-ff00ff?style=for-the-badge)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar2260&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
-</p>
+🧑‍💻 Game Developer in Progress | BTech CSE
 
----
-⭐️ From [Prakhar2260](https://github.com/Prakhar2260)
+🟢 Status: Online | 🎯 Goal: AAA Game Developer
+
+🕹️ PLAYER PROFILE
+
+🚀 Passionate Computer Science Engineering student exploring
+Game Development (Unity + Unreal), C++, and Graphics Programming.
+
+I enjoy building systems, solving problems, and turning logic into interactive experiences.
+
+🎮 CURRENT QUESTS
+
+🧾 Salary Receipt Generator (Node.js + MySQL)
+
+🌱 Carbon Capture & Utilization (CCU) research (Green Tech)
+
+⚔️ Side quests in C++, DSA, and Game Dev fundamentals
+
+🧠 SKILL PROGRESSION
+
+🎯 C / C++ → Game Logic & Engine Concepts
+
+🎮 Unity (C#) → Gameplay & Prototyping
+
+🧩 Unreal Engine (Exploring) → Blueprints & Rendering
+
+🌐 Web Tech → Tools, dashboards & backend systems
+
+📐 Maths & Vectors → Physics & graphics foundations
+
+🤝 CO-OP MODE (Collaboration)
+
+Open-source Web & Game Dev projects
+
+Green Technology & sustainable computing research
+
+Hackathons & innovation challenges
+
+🆘 NEED BACKUP WITH
+
+Game engine architecture (ECS, rendering pipeline)
+
+Writing clean, scalable C++
+
+Getting involved in game dev communities
+
+📡 CONTACT TERMINAL
+
+📧 Email: add your real email here
+
+🔗 GitHub: github.com/Prakhar2260
+
+💼 LinkedIn: (optional)
+
+📊 PLAYER STATS (NEON HUD)
+🎮 PLAYER STATUS
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Prakhar2260&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=PLAYER%20STATUS" /> </p>
+🔥 COMBO STREAK (FIXED & ACCURATE)
+<p align="center"> <img src="https://streak-stats.demolab.com?user=Prakhar2260&theme=radical&hide_border=true&mode=daily" /> </p>
+🧠 SKILL TREE (LANGUAGES)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar2260&layout=compact&theme=radical&hide_border=true" /> </p>
+🏆 ACHIEVEMENTS UNLOCKED
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Prakhar2260&theme=darkhub&no-frame=true&row=1" /> </p>
+🕹️ XP PROGRESSION
+<p align="center"> <img src="https://github.com/Prakhar2260/Prakhar2260/blob/output/github-contribution-grid-snake-dark.svg" /> </p>
+👾 PLAYERS VISITED
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Prakhar2260&label=PLAYERS&color=brightgreen" /> </p>
+
+
+
+⭐ Save Point Reached
+Profile auto-updates as XP increases.
+
+
+
+
+
+
 
