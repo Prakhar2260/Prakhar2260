@@ -19,9 +19,55 @@ I enjoy building systems, solving problems, and turning logic into interactive e
 ---
 
 ## 🎮 CURRENT QUESTS
-- 🧾 Salary Receipt Generator (**Node.js + MySQL**)  
-- 🌱 Carbon Capture & Utilization (**Green Tech research**)  
-- ⚔️ Side quests in **C++**, **DSA**, and **Game Dev fundamentals**
+---
+
+## 🧟‍♂️ BOSS FIGHTS (MAJOR PROJECTS)
+
+### 🧾 Salary Receipt Generator — *Mini Boss*
+**Tech:** Node.js · MySQL  
+**Objective:** Automate salary receipt generation with database-backed records  
+**Boss Mechanics:**
+- CRUD operations
+- Backend logic
+- Real-world utility system  
+
+🟢 Status: In Progress
+
+---
+
+### 📚 Data Structure & Algorithm Practice — *Endurance Boss*
+**Tech:** C  
+**Objective:** Master DSA fundamentals through consistent problem-solving  
+**Boss Mechanics:**
+- Arrays, Linked Lists, Algorithms
+- Logical thinking & optimization  
+
+🔗 https://github.com/Prakhar2260/Data_Structure_Algorithm_Practice  
+🟢 Status: Ongoing
+
+---
+
+### 🧩 DSA Contest Questions Collection — *Arena Boss*
+**Tech:** C  
+**Objective:** Competitive programming problem collection  
+**Boss Mechanics:**
+- Pattern recognition
+- Optimization thinking  
+
+🔗 https://github.com/Prakhar2260/Data_Structure_Algorithm_ContestQuestion  
+🟢 Status: Ongoing
+
+---
+
+### 🎮 Game Development Foundations — *Hidden Boss*
+**Tech:** C++ · Unity (C#) · Unreal  
+**Objective:** Build strong game-dev fundamentals  
+**Boss Mechanics:**
+- Game loops
+- Engine architecture
+- Physics & rendering  
+
+🟡 Status: Exploration Phase
 
 ---
 
