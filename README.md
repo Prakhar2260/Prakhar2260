@@ -19,8 +19,8 @@ I enjoy building systems, solving problems, and turning logic into interactive e
 ---
 
 ## 🎮 CURRENT QUESTS
-- 🧾 Salary Receipt Generator (**Node.js + MySQL**)
-- 🌱 Carbon Capture & Utilization (**Green Tech research**)
+- 🧾 Salary Receipt Generator (**Node.js + MySQL**)  
+- 🌱 Carbon Capture & Utilization (**Green Tech research**)  
 - ⚔️ Side quests in **C++**, **DSA**, and **Game Dev fundamentals**
 
 ---
@@ -49,51 +49,42 @@ I enjoy building systems, solving problems, and turning logic into interactive e
 ---
 
 ## 📡 CONTACT TERMINAL
-- 📧 Email: *add your real email here*
-- 🔗 GitHub: https://github.com/Prakhar2260
-- 💼 LinkedIn: *(optional)*
+- 📧 Email: *add your real email here*  
+- 🔗 GitHub: https://github.com/Prakhar2260  
+- 💼 LinkedIn: *(optional)*  
 
 ---
 
 ## 📊 PLAYER STATS (NEON HUD)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prakhar2260&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-</p>
+![Player Stats](https://github-readme-stats.vercel.app/api?username=Prakhar2260&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400)
 
 ---
 
 ## 🔥 COMBO STREAK
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Prakhar2260&theme=radical&hide_border=true" />
-</p>
+![Combo Streak](https://streak-stats.demolab.com?user=Prakhar2260&theme=radical&hide_border=true)
 
 ---
 
 ## 🧠 SKILL TREE (LANGUAGES)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar2260&layout=compact&theme=radical&hide_border=true" />
-</p>
+![Skill Tree](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar2260&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)
 
 ---
 
 ## 🏆 ACHIEVEMENTS UNLOCKED
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prakhar2260&theme=darkhub&no-frame=true&row=1" />
-</p>
+![Trophies](https://github-profile-trophy.vercel.app/?username=Prakhar2260&theme=darkhub&no-frame=true&row=1)
 
 ---
 
 ## 👾 PLAYERS VISITED
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prakhar2260&label=PLAYERS&color=brightgreen" />
-</p>
+![Visitors](https://komarev.com/ghpvc/?username=Prakhar2260&label=PLAYERS&color=brightgreen)
 
 ---
 
 ⭐ **Save Point Reached**  
 _Profile auto-updates as XP increases._
+
