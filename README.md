@@ -2,11 +2,16 @@
   <img src="https://raw.githubusercontent.com/Prakhar2260/Prakhar2260/main/banner.png.png" />
 </p>
 
-# 🎮 Prakhar Pandey  
-![XP](https://img.shields.io/badge/XP-GAINING%20DAILY-ff00ff?style=for-the-badge)
+<h1 align="center">🎮 Prakhar Pandey</h1>
 
-### 🧑‍💻 Game Developer in Progress | BTech CSE  
-🟢 **Status:** Online | 🎯 **Goal:** AAA Game Developer  
+<p align="center">
+  <img src="https://img.shields.io/badge/XP-GAINING%20DAILY-ff00ff?style=for-the-badge" />
+</p>
+
+<p align="center">
+  🧑‍💻 <b>Game Developer in Progress</b> | BTech CSE <br/>
+  🟢 <b>Status:</b> Online &nbsp;&nbsp; 🎯 <b>Goal:</b> AAA Game Developer
+</p>
 
 ---
 
@@ -14,11 +19,8 @@
 🚀 Passionate Computer Science Engineering student exploring  
 **Game Development (Unity + Unreal)**, **C++**, and **Graphics Programming**.
 
-I enjoy building systems, solving problems, and turning logic into interactive experiences.
+I enjoy building systems, solving problems, and turning logic into **interactive experiences**.
 
----
-
-## 🎮 CURRENT QUESTS
 ---
 
 ## 🧟‍♂️ BOSS FIGHTS (MAJOR PROJECTS)
@@ -27,56 +29,73 @@ I enjoy building systems, solving problems, and turning logic into interactive e
 **Tech:** Node.js · MySQL  
 **Objective:** Automate salary receipt generation with database-backed records  
 **Boss Mechanics:**
-- CRUD operations
-- Backend logic
+- CRUD operations  
+- Backend logic  
 - Real-world utility system  
 
-🟢 Status: In Progress
+🟢 **Status:** In Progress
 
 ---
 
 ### 📚 Data Structure & Algorithm Practice — *Endurance Boss*
 **Tech:** C  
-**Objective:** Master DSA fundamentals through consistent problem-solving  
+**Objective:** Build strong problem-solving fundamentals  
 **Boss Mechanics:**
-- Arrays, Linked Lists, Algorithms
-- Logical thinking & optimization  
+- Arrays & Linked Lists  
+- Algorithmic thinking  
+- Optimization  
 
 🔗 https://github.com/Prakhar2260/Data_Structure_Algorithm_Practice  
-🟢 Status: Ongoing
+🟢 **Status:** Ongoing
 
 ---
 
 ### 🧩 DSA Contest Questions Collection — *Arena Boss*
 **Tech:** C  
-**Objective:** Competitive programming problem collection  
+**Objective:** Competitive programming & pattern recognition  
 **Boss Mechanics:**
-- Pattern recognition
-- Optimization thinking  
+- Problem analysis  
+- Optimization strategies  
 
 🔗 https://github.com/Prakhar2260/Data_Structure_Algorithm_ContestQuestion  
-🟢 Status: Ongoing
+🟢 **Status:** Ongoing
 
 ---
 
 ### 🎮 Game Development Foundations — *Hidden Boss*
-**Tech:** C++ · Unity (C#) · Unreal  
-**Objective:** Build strong game-dev fundamentals  
+**Tech:** C++ · Unity (C#) · Unreal Engine  
+**Objective:** Learn core game-dev concepts  
 **Boss Mechanics:**
-- Game loops
-- Engine architecture
+- Game loops  
+- Engine architecture  
 - Physics & rendering  
 
-🟡 Status: Exploration Phase
+🟡 **Status:** Exploration Phase
 
 ---
 
-## 🧠 SKILL PROGRESSION
+## 📊 PLAYER STATS (STABLE MODE)
+- 🧠 **Experience:** 290+ contributions in the last year  
+- 🔥 **Consistency:** 90+ day active coding streak  
+- 🎯 **Primary Focus:** Game Development & C++  
+- 🕹️ **Secondary Skills:** Web Dev, DSA, Backend Systems  
+
+---
+
+## 🧠 SKILL TREE
 - 🎯 **C / C++** → Game Logic & Engine Concepts  
 - 🎮 **Unity (C#)** → Gameplay & Prototyping  
-- 🧩 **Unreal Engine (Exploring)** → Blueprints & Rendering  
+- 🧩 **Unreal Engine** → Blueprints & Rendering *(Exploring)*  
 - 🌐 **Web Tech** → Tools, dashboards & backend systems  
 - 📐 **Maths & Vectors** → Physics & graphics foundations  
+
+---
+
+## 🧭 CURRENT LEARNING PATH
+- 📦 Data Structures & Algorithms  
+- 🎮 Gameplay systems & engine internals  
+- 🧠 Clean, scalable C++ design  
+- 🧪 Experimenting with Unity & Unreal features  
 
 ---
 
@@ -89,8 +108,8 @@ I enjoy building systems, solving problems, and turning logic into interactive e
 
 ## 🆘 NEED BACKUP WITH
 - Game engine architecture (**ECS, rendering pipeline**)  
-- Writing clean, scalable **C++**  
-- Getting involved in **game dev communities**
+- Writing clean, maintainable **C++**  
+- Entering **game dev communities & jams**
 
 ---
 
@@ -100,29 +119,12 @@ I enjoy building systems, solving problems, and turning logic into interactive e
 
 ---
 
-## 📊 PLAYER STATS (NEON HUD)
-
-![Player Stats](https://github-readme-stats.vercel.app/api?username=Prakhar2260&show_icons=true&theme=radical&hide_border=true)
-
----
-
-## 🔥 COMBO STREAK
-
-![Combo Streak](https://streak-stats.demolab.com?user=Prakhar2260&theme=radical&hide_border=true)
-
----
-
-## 🧠 SKILL TREE (LANGUAGES)
-
-![Skill Tree](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar2260&layout=compact&theme=radical&hide_border=true)
-
----
-
 ## 👾 PLAYERS VISITED
-
 ![Visitors](https://komarev.com/ghpvc/?username=Prakhar2260&label=PLAYERS&color=brightgreen)
 
 ---
 
-⭐ **Save Point Reached**  
-_Profile auto-updates as XP increases._
+<p align="center">
+⭐ <b>Save Point Reached</b> <br/>
+Profile evolves as skills & experience grow.
+</p>
